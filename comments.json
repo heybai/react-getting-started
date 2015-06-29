@@ -1,0 +1,10 @@
+[
+  {
+    "author": "Peter",
+    "text": "This is one comment"
+  },
+  {
+    "author": "Bob",
+    "text": "And this is *another one* comment"
+  }
+]
